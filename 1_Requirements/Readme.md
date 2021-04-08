@@ -43,19 +43,17 @@ Calcuting
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-* Small and medium size clinics Providing Covid vaccinations to patients
+*
 
 ## What:
-* Many Clinics are not able to afford high end HMS or ERP systems and hence still depend on manual filing systems. During COVID vaccinations it becomes a tedious task to manage every patient with hand written file system
+* 
 
 ## When:
-* This problem began in February 2021, when COVID Vaccination Drive began and small/medium clinics will soon have to administer vaccinations to people.
-
+* 
 ## Where:
-* This problem is expected to surface in all states of India.
-
+*
 ## How:
-* This problem may cause ineffective vaccine management and hence there can be a huge amount of vaccine wastage. As per recent data in cities like Noida and Delhi till date 9%-18% vaccines have gone to waste.
+* 
 
 # Detail requirements
 ## High Level Requirements: 
