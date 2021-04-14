@@ -28,13 +28,16 @@ Factorial
  * As a professional, in any field, the Calculator save time, energy and increases efficiency in workplace.
 
 ## Cost and Features
-Feature | Cost | Time
-Calcuting  
+Time | Feature | Cost | 
+1820 | ARITHMOMETER:First Commercially Produced Mechanical Calculator The production debut of the Arithmometer in 1851 launched the mechanical calculator industry. |300 francs 
+1954 | First All-Transistor Calculator |The IBM 608 was the first calculating machine to use solid-state transistors instead of vacuum tubes. The machine was housed in several large cabinets. |$83, 210 |
+1961 | ANITA MK-8:the vacuum tube–based calculator was released in 1961 under the name ANITA MK-8. The machine featured approximately 170 cold cathode vacuum tubes, a Dekatron decade counter tube and Numicator display/indicator tubes.| $1000 |
+
 ## Defining Our System
-### Certain assumptions:
-
-
 ### Explanation:
+The project will be a simple Calculator implementation in C. You will use various calculations to calculate different mathematical operations. 
+
+
 
 
 ## SWOT ANALYSIS
@@ -57,6 +60,7 @@ Calcuting
 
 # Detail requirements
 ## High Level Requirements: 
+| ID | Description | HLR ID | Status (Implemented/Future) |
 
 ##  Low level Requirements:
  
