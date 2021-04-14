@@ -19,10 +19,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`ABC` | 12345678  | Feature A, B etc    | X No     | X No   |X No   |X No     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+SFID.  |  Name      |    Features                      | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|-----------|-----------------------------------|----------------|---------------|-------------|--------------
+295557 | Aishwarya s  | Feature A, B etc               | X No           | X No          |X No         |X No     
 
 ## Challenges Faced and How Was It Overcome
 
@@ -30,9 +29,3 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 2. BCD
 3. ...
 4. ...
-
-## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
-3. [git inspector](https://github.com/ejwa/gitinspector.git)
-4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
