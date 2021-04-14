@@ -4,4 +4,4 @@
 ### Usecase Diagram :
 
 ### Sequence Diagram :
-![UsecaseDiagram](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/2_Design/Usecasehdl.jpg)
+![SequenceDiagram](https://github.com/295557/Mini_Project/blob/main/2_Design/sequence diagram.png)
