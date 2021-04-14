@@ -22,10 +22,10 @@ Factorial
  The Factorial function is used by clicking the "!" button or type "!".
 
 ### Benefits
-*This technology allows students solve complicated problems quickly and in an efficient manner. 
-*It can reduce the problem to simpler tasks and allows the student to devote more time in understanding the problem.
-*They are saved from monotonous calculations and the same boring mundane procedure.
-*As a professional, in any field, the Calculator save time, energy and increases efficiency in workplace.
+ * This technology allows students solve complicated problems quickly and in an efficient manner. 
+ * It can reduce the problem to simpler tasks and allows the student to devote more time in understanding the problem.
+ * They are saved from monotonous calculations and the same boring mundane procedure.
+ * As a professional, in any field, the Calculator save time, energy and increases efficiency in workplace.
 
 ## Cost and Features
 Feature | Cost | Time
