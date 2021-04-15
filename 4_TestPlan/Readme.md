@@ -8,5 +8,5 @@
 |6.|	TC6	|To square  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|2^2|	4 |	4	|Pass|
 |7.|	TC6	|To cube  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|2^2^2|	8 |	8	|Pass|
 |8.|	TC6	|To squareroot  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|squareroot(4)|	2 |	2	|Pass|
-|5.|	TC5|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	|Symbol ‗0‘ appears on screen	|Pass|
+|5.|	TC5|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	| |Symbol ‗0‘ appears on screen	|Pass|
 
