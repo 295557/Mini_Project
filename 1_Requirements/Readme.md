@@ -36,32 +36,31 @@ Time | Feature | Cost |
 ## Defining Our System
 ### Explanation:
 The project will be a simple Calculator implementation in C. You will use various calculations to calculate different mathematical operations. 
-
-
-
-
+Your calculator is going to contain functions for all of the basic math operators you typically find on simple calculators, so start by creating functions for the following items
+1.add
+2.subtract
+3.multiply
+4.divide
+5.modulus
+6.square
+7.cube
+8.square root
+Once the opearands are entered and operator is selected from the list that particular opeartion is performed based on the option selected.
 ## SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/295557/Mini_Project/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-*
+* Users who need to calculate the opeartions or the basic functions like  students,professionals ,and it is used in shops,restaurants,hotels etc.
 
 ## What:
-* 
+* it does operations of the basic functions based on the options that is it given by the user like additon,subtraction,multiplication etc. based on it the particular function is executed the displayed.
 
 ## When:
-* 
+* when they need to compute the results like for students to calculate the results of thier scores etc. based on the functions like add,sub,multipy etc.
 ## Where:
-*
+* it is used in shops,colleges,schools etc.
 ## How:
-* 
+* its used based on the option thata user selects based on the list given like additon,subtraction,etc. based on the selected opearation operands are asked from the user to enter the numbers and operation that is selected and that particular function is executed and the result is displayed on the screen when enter is pressed.
 
-# Detail requirements
-## High Level Requirements: 
-| ID | Description | HLR ID | Status (Implemented/Future) |
-
-##  Low level Requirements:
- 
-| ID | Description | HLR ID | Status (Implemented/Future) |
