@@ -9,7 +9,7 @@
 * @param[in] operand2 
 * @return Result of operand1 + operand2
 */
-void addition();
+void addition((int number1,int number2));
 
 /**
 *  subtracts the operand1, operand2 and returns the result
@@ -17,7 +17,7 @@ void addition();
 * @param[in] operand2 
 * @return Result of operand1 - operand2
 */
-void subtraction();
+void subtraction((int number1,int number2));
 
 /**
 *  multiply the operand1, operand2 and returns the result
@@ -25,7 +25,7 @@ void subtraction();
 * @param[in] operand2 
 * @return Result of operand1 * operand2
 */
-void multiplication();
+void multiplication((int number1,int number2));
 
 
 /**
@@ -34,7 +34,7 @@ void multiplication();
 * @param[in] operand2 
 * @return integer value of the operand1 / operand2
 */
-void division();
+void division((int number1,int number2));
 
 
 /**
@@ -43,7 +43,7 @@ void division();
 * @param[in] operand2 
 * @return integer value of the operand1 % operand2
 */
-void modulus();
+void modulus((int number1,int number2));
 
 /**
 *  squares the operand1 and returns the result
@@ -51,20 +51,17 @@ void modulus();
 * @return Result of operand1 ^2
 */
 
-void square();
+void square(int number1);
 
 /**
 *  cubes the operand1 and returns the result
 * @param[in] operand1 
 * @return Result of operand1 ^3
 */
-void cube();
+void cube((int number1);
 
 /**
 *  finds the square root of the operand1 and returns the result
 * @param[in] operand1 
 * @return Result of square root of operand1
 */
-
-void squareroot();
-
