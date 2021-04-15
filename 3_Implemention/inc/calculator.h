@@ -65,4 +65,4 @@ void cube((int operand1);
 * @param[in] operand1 
 * @return Result of square root of operand1
 */
-void squareroot(int operand1)
+void squareroot(int operand1);
