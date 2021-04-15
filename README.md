@@ -19,7 +19,7 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SFID.  |  Name      |    Features                      No Test Cases|Test Case Pass
--------|-----------|-----------------------------------|----------------|---------------
+SFID.  |  Name      |    Features                       |   No Test Cases|  Test Case Pass|
+-------|----------- |-----------------------------------|----------------|----------------|
 295557 | Aishwarya s  | Feature 1,2,3,4,5,6,7,8                     |9                |9   
 
