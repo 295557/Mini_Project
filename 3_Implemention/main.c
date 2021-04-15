@@ -1,8 +1,7 @@
 #include"calculator.h"
 int main(){
-    printf("\t\tWelcome to the scientific calculator!!\n\n");
+    printf("\t\tWelcome my calculator!!\n\n");
     int choice;
-    printf("\n******* Press 0 to quit the program ********\n");
     printf("Enter 1 for Addition \n");
     printf("Enter 2 for Subtraction \n");
     printf("Enter 3 for Multiplication \n");
