@@ -2,10 +2,7 @@
 ![Banner](https://github.com/295557/Mini_Project/blob/main/1_Requirements/calculator.jpg)
 
 
-Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
 [![CI](https://github.com/295557/Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/main.yml)
 [![cppcheck-action](https://github.com/295557/Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/cppcheck.yml)
 [![Valgrind](https://github.com/295557/Mini_Project/actions/workflows/valgrind.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/valgrind.yml)
