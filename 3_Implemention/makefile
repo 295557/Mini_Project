@@ -10,7 +10,7 @@ Src/calculator.c\
 
 # All test source files
 TEST_SRC = Src/calculator.c\
-Test/Test.c
+Test/test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
