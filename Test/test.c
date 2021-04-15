@@ -78,7 +78,7 @@ int main()
            CU_ASSERT(16 == square(4));
 	   CU_ASSERT(9 == square(3));
 		   
-	   CU_ASSERT(25 == square(5));
+	   
  }
  void test_cube(void)
  {
