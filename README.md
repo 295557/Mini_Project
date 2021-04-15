@@ -22,9 +22,3 @@ SFID.  |  Name      |    Features                      | Issuess Raised |Issues 
 -------|-----------|-----------------------------------|----------------|---------------|-------------|--------------
 295557 | Aishwarya s  | Feature A, B etc               | X No           | X No          |X No         |X No     
 
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
