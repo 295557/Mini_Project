@@ -6,7 +6,7 @@
 |4.|	TC4	|To divide two integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer from - 9999999999 to +9999999999 2.Key in operator / 3.Key in second operand,a valid integer from - 9999999999 To +999999999	|100/ 25|	40(division,a bove ten digits will be expressed in exponential form)|	40	|Pass|
 |5.|	TC5	|To modulus two integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer from - 9999999999 to +9999999999 2.Key in operator / 3.Key in second operand,a valid integer from - 9999999999 To +999999999	|4% 2|	2|	2	|Pass|
 |6.|	TC6	|To square  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|2^2|	4 |	4	|Pass|
-|7.|	TC6	|To cube  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|2^2^2|	8 |	8	|Pass|
-|8.|	TC6	|To squareroot  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|squareroot(4)|	2 |	2	|Pass|
-|5.|	TC5|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	| |Symbol ‗0‘ appears on screen	|Pass|
+|7.|	TC7	|To cube  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|2^2^2|	8 |	8	|Pass|
+|8.|	TC8	|To squareroot  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator / 	|squareroot(4)|	2 |	2	|Pass|
+|9.|	TC9|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	| |Symbol ‗0‘ appears on screen	|Pass|
 
