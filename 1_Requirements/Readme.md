@@ -41,7 +41,7 @@ The project will be a simple Calculator implementation in C. You will use variou
 
 
 ## SWOT ANALYSIS
-
+![SWOT Analysis](https://github.com/295557/Mini_Project/blob/main/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
