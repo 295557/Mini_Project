@@ -23,12 +23,18 @@ SFID.  |  Name      |    Features                       |   No Test Cases|  Test
 -------|----------- |-----------------------------------|----------------|----------------|
 295557 | Aishwarya s  | Feature 1,2,3,4,5,6,7,8                     |9                |9   
 
-## Challenges Faced and How Was It Overcome
-| No. | Challenge | Solution
-|-----|-----------|--------
-|1. | Got errors while writing the  code| successfully debubbeg and results are displayed|
-|2.| errors in creating makefile| it was cleared and output was produced.|
-
+| Feature Id | Feature |
+| -----------|---------|
+|F_01| options to choose the operation to be perform.|
+|F_02| based on the options selected addition is performed if its 1 |
+|F_03| subtraction is performed if it is option 2 |
+|F_04| multiplication is performed if option is 3 |
+|F_05| Division is performed if option is 4|
+|F_06| Modulus is performed if it is 5|
+|F_07| Square of a number is performed if it is 6|
+|F_08| cube of a number is performed if it is 7 |
+|F_09| squareroot is performed if it if 8 |
+|F_10| numbers are to be entered based on the operations that is selected|
 # Detail Requirements
 
 ## High Level Requirements
