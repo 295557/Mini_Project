@@ -50,5 +50,5 @@ SFID.  |  Name      |    Features                       |   No Test Cases|  Test
 |----------------|-------------------------------|-----------------------------|
 |LR_01| Using Addition, Subtraction, Multiplication, Division functions        |Implemented            |
 |LR_02|Using functions to find square and squareroot and cube          |Implemented|
-|LR_03|Using functions to find factorial, power, log and exponential   |Implemented|
-|LR_04|Functions to find cuberoot |Future|
+|LR_03|Using functions to find log and exponential   |Future|
+|LR_04|Functions to find average,total summation|Future|
