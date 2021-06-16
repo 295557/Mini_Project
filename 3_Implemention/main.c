@@ -12,8 +12,8 @@ int main(){
     printf("Enter 8 for squareroot\n\n");
     printf("Enter 9 for simple interest \n");
     printf("Enter 10 for compund  interest \n");
-    printf("Enter 11  to find roots of quadratic equation");
-    
+    printf("Enter 11  to find roots of quadratic equation\n");
+    printf("Enter 12 for  gcd of 2 numbers\n");
     while(1){    
     printf("\n\nEnter the operation you want to do: ");
     
@@ -55,6 +55,9 @@ int main(){
                 
                 case 11:
                 	quadratic_equation();
+                	break;
+              case 12:
+                	gcd();
                 	break;
                 case 0:
                     exit(0);
