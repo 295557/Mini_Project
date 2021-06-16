@@ -1,3 +1,6 @@
+#  PROJECT IS ENHANCED
+Few more functions are added.
+
 # SDLC Activity Based Learning
 #  MINI_PROJECT:CALCULATOR 
 ![Banner](https://github.com/295557/Mini_Project/blob/main/1_Requirements/projcalculator.jpg)
