@@ -123,3 +123,9 @@ void test_compound_interest(void){
   c1.t = 5;
   CU_ASSERT_EQUAL(16288.9,compound_interest(&c1));
 }
+ void test_gcd(void)
+ {
+          CU_ASSERT(9 == addition(81, 153));
+		  CU_ASSERT(1 == addition(181, 29));
+		  
+ }
