@@ -29,3 +29,9 @@ void cube();
 
 
 void squareroot();
+
+double simple_interest();
+
+double compound_interest();
+
+double quadratic_equation();
