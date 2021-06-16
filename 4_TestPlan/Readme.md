@@ -8,5 +8,9 @@
 |6.|	TC6	|To square  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|2^2|	4 |	4	|Pass|
 |7.|	TC7	|To cube  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|2^2^2|	8 |	8	|Pass|
 |8.|	TC8	|To squareroot  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|squareroot(4)|	2 |	2	|Pass|
-|9.|	TC9|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	| |Symbol‗0‘ appears on screen	|Pass|
+|9.|	TC8	|To  simple interest of   integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|simpleinterest(5000,15,1)|	750.0 |		|Pass|
+|10.|	TC8	|To compoundinterest  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|compoundinterest(5000,15,1)|	804.855 |	|Pass|
+|11.|	TC8	|To find roots of quadratic equation  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|quadratic_equation(3,5,2)|	-0.67 |	-1.00	|Pass|
+|12.|	TC8	|To gcd  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|gcd(181,29)|	1 |	1	|Pass|
+|13.|	TC9|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	| |Symbol‗0‘ appears on screen	|Pass|
 
