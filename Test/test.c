@@ -31,6 +31,7 @@ int main()
   CU_add_test(suite, "squareroot", test_squareroot);
   CU_add_test(suite, "simple_interest", test_simple_interest);
   CU_add_test(suite, "compound_interest", test_compound_interest);
+  CU_add_test(suite, "quadratic_equation", test_quadratic_equation);
   CU_add_test(suite, "gcd", test_gcd);
   
   CU_basic_set_mode(CU_BRM_VERBOSE);
