@@ -13,6 +13,7 @@ void test_cube(void);
 void test_squareroot(void);
 void test_simple_interesr(void);
 void test_compound_interest(void);
+void test_gcd(void);
 int main()
 {
    if (CUE_SUCCESS != CU_initialize_registry())
@@ -27,6 +28,9 @@ int main()
   CU_add_test(suite, "square", test_square);
   CU_add_test(suite, "cube", test_cube);
   CU_add_test(suite, "squareroot", test_squareroot);
+  CU_add_test(suite, "simple_interest", test_simple_interest);
+  CU_add_test(suite, "compound_interest", test_compound_interest);
+  CU_add_test(suite, "gcd", test_gcd);
   
   CU_basic_set_mode(CU_BRM_VERBOSE);
   CU_basic_run_tests();
@@ -100,22 +104,22 @@ void test_simple_interest(void){
   c1.p = 1000;
   c1.r = 2;
   c1.t = 5;
-  TEST_ASSERT_EQUAL(100,simple_interest(&c1));
+  CU_ASSERT_EQUAL(100,simple_interest(&c1));
 
   c1.p = 1100;
   c1.r = 2;
   c1.t = 5.5;
-  TEST_ASSERT_EQUAL(121,simple_interest(&c1));
+  CU_ASSERT_EQUAL(121,simple_interest(&c1));
 
 }
 void test_compound_interest(void){
   c1.p = 1000;
   c1.r = 2;
   c1.t = 2;
-  TEST_ASSERT_EQUAL(1040.4,compound_interest(&c1));
+  CU_ASSERT_EQUAL(1040.4,compound_interest(&c1));
   
   c1.p = 10000;
   c1.r = 10.25;
   c1.t = 5;
-  TEST_ASSERT_EQUAL(16288.9,compound_interest(&c1));
+  CU_ASSERT_EQUAL(16288.9,compound_interest(&c1));
 }
