@@ -112,3 +112,20 @@ double quadratic_equation()
         printf("root1 = %.2lf+%.2lfi and root2 = %.2f-%.2fi", realPart, imagPart, realPart, imagPart);
     }
 }
+
+int gcd()
+{
+	int n1, n2;
+    
+    printf("Enter two positive integers: ");
+    scanf("%d %d",&n1,&n2);
+
+    while(n1!=n2)
+    {
+        if(n1 > n2)
+            n1 -= n2;
+        else
+            n2 -= n1;
+    }
+    printf("GCD = %d",n1);
+}
