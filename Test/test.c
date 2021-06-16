@@ -11,7 +11,8 @@ void test_modulus(void);
 void test_square(void);
 void test_cube(void);
 void test_squareroot(void);
-
+void test_simple_interesr(void);
+void test_compound_interest(void);
 int main()
 {
    if (CUE_SUCCESS != CU_initialize_registry())
