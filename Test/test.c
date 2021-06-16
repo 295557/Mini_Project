@@ -97,25 +97,25 @@ void test_squareroot(void)
  }
 void test_simple_interest(void){
 
-  c1.principal_amount = 1000;
-  c1.rate_of_interest = 2;
-  c1.time_of_period = 5;
+  c1.p = 1000;
+  c1.r = 2;
+  c1.t = 5;
   TEST_ASSERT_EQUAL(100,simple_interest(&c1));
 
-  c1.principal_amount = 1100;
-  c1.rate_of_interest = 2;
-  c1.time_of_period = 5.5;
+  c1.p = 1100;
+  c1.r = 2;
+  c1.t = 5.5;
   TEST_ASSERT_EQUAL(121,simple_interest(&c1));
 
 }
 void test_compound_interest(void){
-  c1.principal_amount = 1000;
-  c1.rate_of_interest = 2;
-  c1.time_of_period = 2;
+  c1.p = 1000;
+  c1.r = 2;
+  c1.t = 2;
   TEST_ASSERT_EQUAL(1040.4,compound_interest(&c1));
   
-  c1.principal_amount = 10000;
-  c1.rate_of_interest = 10.25;
-  c1.time_of_period = 5;
+  c1.p = 10000;
+  c1.r = 10.25;
+  c1.t = 5;
   TEST_ASSERT_EQUAL(16288.9,compound_interest(&c1));
 }
