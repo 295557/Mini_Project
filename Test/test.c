@@ -13,6 +13,7 @@ void test_cube(void);
 void test_squareroot(void);
 void test_simple_interesr(void);
 void test_compound_interest(void);
+void test_quadratic_equation(void);
 void test_gcd(void);
 int main()
 {
@@ -123,6 +124,13 @@ void test_compound_interest(void){
   c1.t = 5;
   CU_ASSERT_EQUAL(16288.9,compound_interest(&c1));
 }
+void test_quadratic_equation(void)
+ {
+         
+		  CU_ASSERT(-0.83 + 1.28i == quadratic_equation(3,5,7));
+		  
+		  CU_ASSERT(0.81== quadratic_equation(8,-4,-2));
+ }
  void test_gcd(void)
  {
           CU_ASSERT(9 == addition(81, 153));
