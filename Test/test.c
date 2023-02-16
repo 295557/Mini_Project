@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 #define PROJECT_NAME    "calculator"
-
 void test_addition(void);
 void test_subtraction(void);
 void test_multiplication(void);
@@ -17,7 +16,7 @@ void test_quadratic_equation(void);
 void test_gcd(void);
 int main()
 {
-   if (CUE_SUCCESS != CU_initialize_registry())
+   if (CU_SUCCESS != CU_initialize_registry())
     return CU_get_error();
   CU_pSuite suite = CU_add_suite(PROJECT_NAME, 0, 0);
   
@@ -138,5 +137,4 @@ void test_quadratic_equation(void)
 		  CU_ASSERT(1 == addition(181, 29));
 		  
  }
-
 
