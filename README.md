@@ -1,4 +1,4 @@
-#  PROJECT IS ENHANCED
+#  PROJECT  IS  ENHANCED
 Few more functions are added like function to calculate simple_interest ,compund_interest,finding roots of a quadratic equations,finding gcd of numbers,bthese are the new functions added and tested.
 
 # SDLC Activity Based Learning
