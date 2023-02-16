@@ -1,4 +1,4 @@
-# Requirements
+# Requirements.....
 ## Introduction
  * A calculator is a computing machine whose purpose is to do mathematical computations under direct human guidance. The simplest calculators perform the basic mathematical functions addition, subtraction, division, and multiplication.
  * calculator is used to perform equations quickly and a calculator is used for an instant and on the spot result which has made human life very dependent on calculators
