@@ -14,3 +14,5 @@
 |12.|	TC8	|To gcd  integer and display the result on ten digit calculator|	Calculator is switched on	|1.Key in a valid integer  2.Key in operator  	|gcd(181,29)|	1 |	1	|Pass|
 |13.|	TC9|	To exit the screen|	Calculator is switched on	|Press 0|Symbol ‗0‘ should appear on screen	| |Symbol‗0‘ appears on screen	|Pass|
 
+
+
