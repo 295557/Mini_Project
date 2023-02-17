@@ -25,3 +25,6 @@ The raise to the power (y raised to the x function) is used by clicking on the "
 Factorial
  The Factorial function is used by clicking the "!" button or type "!".
 
+
+
+
