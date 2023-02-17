@@ -1,17 +1,16 @@
-#  PROJECT  IS  ENHANCED
-Few more functions are added like function to calculate simple_interest ,compund_interest,finding roots of a quadratic equations,finding gcd of numbers,bthese are the new functions added and tested.
-
-# SDLC Activity Based Learning
 #  MINI_PROJECT:CALCULATOR 
-![Banner](https://github.com/295557/Mini_Project/blob/main/1_Requirements/projcalculator.jpg)
 
-
-
-[![CI](https://github.com/295557/Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/main.yml)
-[![cppcheck-action](https://github.com/295557/Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/cppcheck.yml)
-[![Valgrind](https://github.com/295557/Mini_Project/actions/workflows/valgrind.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/valgrind.yml)
+## Code quality check Badges......
+CI Build test:<br> <br/>
+[![CI](https://github.com/295557/Mini_Project/actions/workflows/main.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/main.yml)<br> <br/>
+CPPcheck: <br> <br/>
+[![cppcheck-action](https://github.com/295557/Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/cppcheck.yml)<br> <br/>
+Valgrind Test:<br> <br/>
+[![Valgrind](https://github.com/295557/Mini_Project/actions/workflows/valgrind.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/valgrind.yml)<br> <br/>
+UnitTest:<br> <br/>
 [![Unit testing](https://github.com/295557/Mini_Project/actions/workflows/unittest.yml/badge.svg)](https://github.com/295557/Mini_Project/actions/workflows/unittest.yml)
-
+<br> <br/><br> <br/>
+![Banner](https://github.com/295557/Mini_Project/blob/main/1_Requirements/projcalculator.jpg)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
