@@ -41,3 +41,4 @@ double quadratic_equation();
 
 
 int gcd();
+
