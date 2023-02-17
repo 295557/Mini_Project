@@ -129,3 +129,4 @@ int gcd()
     }
     printf("GCD = %d",n1);
 }
+
